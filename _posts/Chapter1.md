@@ -3,13 +3,14 @@ layout: post
 current: post
 cover: assets/images/thelegendoftarsonfisk.jpeg
 navigation: True
-title: Chapter 1. The Legend of Tarson Fisk
+title: All is Normal as Planned, Chapter 1.
 date: 2023-3-14 10:18:00
 tags:
 class: post-template
 subclass: 'post'
 author: Raymond
 ---
+# Chapter 1. The Legend of Tarson Fisk
 
 The capital of this far-far never-land was “The Red and White Oceania” (inspired from the book 1984). The ruling government is The Fourth Reich. Their public ideals is to create a better tomorrow for everyone, when in reality, they only sought to gain profit from manipulating the masses.
 
