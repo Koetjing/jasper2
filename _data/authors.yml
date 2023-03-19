@@ -2,10 +2,10 @@ raymond:
   username: raymond
   name: Raymond Habibie
   location: Earth
-  url_full: False
-  url: False
+  url_full: https://Koetjing.github.io
+  url: Koetjing.github.io
   bio: The creator of this blog thingy, I like solving plastic cubes and listening to prog metal.
   picture: assets/images/altdel.png
   facebook: False
   twitter: False
-  cover: False
+  cover: True
