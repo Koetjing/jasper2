@@ -8,4 +8,4 @@ raymond:
   picture: assets/images/altdel.png
   facebook: False
   twitter: False
-  cover: True
+  cover: assets/images/blog-cover.jpg
