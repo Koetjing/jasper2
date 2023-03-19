@@ -71,9 +71,9 @@ username: Koetjing
 repo: Koetjing.github.io
 branch: master
 relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://Koetjing.github.io/jasper2/
-source_url:  https://github.com/Koetjing/jasper2/
+destination: _site/
+production_url:  https://Koetjing.github.io
+source_url:  https://github.com/Koetjing/Koetjing.github.io/
 
 exclude:
   - assets/css
