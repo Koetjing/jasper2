@@ -67,8 +67,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
-repo: jasper2
+username: Koetjing
+repo: Koetjing.github.io
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
