@@ -9,3 +9,15 @@ raymond:
   facebook: False
   twitter: False
   cover: assets/images/blog-cover.jpg
+  
+abraham:
+  username: abraham
+  name: Abraham Lincoln
+  location: Kentucky, USA
+  url_full: False
+  url: False
+  bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
+  picture: assets/images/abraham.jpg
+  facebook: False
+  twitter: False
+  cover: False
