@@ -70,7 +70,7 @@ lsi: False
 username: Koetjing
 repo: Koetjing.github.io
 branch: master
-relative_source: ../jasper2/
+relative_source: ../
 destination: _site/
 production_url:  https://Koetjing.github.io
 source_url:  https://github.com/Koetjing/Koetjing.github.io/
