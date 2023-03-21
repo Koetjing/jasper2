@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: assets/images/thelegendoftarsonfisk.jpeg
+cover: assets/images/uniyani.jpg
 navigation: True
-title: Sidetrack omega: A incomplete review of the “Uni Yani” restaurant in downtown Semarang.
+title: An (in)complete review of the Uni Yani restaurant in downtown Semarang.
 date: 2023-3-21 10:18:00
 tags:
 class: post-template
