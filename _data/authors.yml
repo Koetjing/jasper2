@@ -2,13 +2,13 @@ raymond:
   username: raymond
   name: Possessed Koetjing
   location: Earth
-  url_full: https://Koetjing.github.io
-  url: Koetjing.github.io
+  url_full: https://koetjing.github.io
+  url: koetjing.github.io
   bio: The creator of this blog thingy, I like solving plastic cubes and listening to prog metal.
   picture: assets/images/altdel.png
   facebook: False
   twitter: False
-  cover: assets/images/blog-cover.jpg
+  cover: False
   
 abraham:
   username: abraham
